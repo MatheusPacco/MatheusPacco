@@ -1,4 +1,4 @@
-### Salve! 👋
+## Salve! 👋
 
 - 🌱 Atualmente estou aprendendo as linguagens básicas de programação!
 - 🚀 Estudando no Instituto Proa
