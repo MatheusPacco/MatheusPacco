@@ -1,6 +1,7 @@
 ## Salve! 👋
 
-- 🌱 Atualmente estou aprendendo as linguagens básicas de programação!
+- 🎂 19 Anos 
+- 🌱 Desenvolvimento focado em Front-End
 - 🚀 Estudando no Instituto Proa
 - 🔥 Desenvolvendo alguns projetos! 
 
