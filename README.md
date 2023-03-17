@@ -1,6 +1,6 @@
 ## Salve! 👋
 
-- 🎓 Estudando Desenvolvimento Front-End e Experiência do Usuário (UX)
+- 🎓 Desenvolvedor NetSuite
 - 🚀 Ex aluno do Instituto Proa | Curso de Desenvolvimento Web Java
 
 <hr>
