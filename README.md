@@ -1,7 +1,8 @@
 ## Salve! 👋
 
-- 🎓 Desenvolvedor NetSuite
+- 🎓 Desenvolvedor Oracle NetSuite 
 - 🚀 Ex aluno do Instituto Proa | Curso de Desenvolvimento Web Java
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FIAP
 
 <hr>
 <a href="https://github.com/MatheusPacco">
